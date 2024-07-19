@@ -12,7 +12,7 @@ export default function Home() {
       </div>
       <div>
         <div className={classes.hero}>
-          <h1>차세대 미식가를 위한 차세대 음식</h1>
+          <h1>차세대 미식가들을 위한 차세대 음식</h1>
           <p>전 세계 음식을 맛보고 공유하기</p>
         </div>
         <div className={classes.cta}>
